@@ -22,10 +22,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/assets/desktop.png)
+
+![](src/assets/screenshots/desktop.png)
 Desktop behavior
 
-![](./src/assets/mobile.png)
+![](src/assets/screenshots/mobile.png)
 Mobile behavior
 ### Links
 - Solution URL: [Github](https://www.linkedin.com/in/beatriz-neaime-1564b51b1/)
